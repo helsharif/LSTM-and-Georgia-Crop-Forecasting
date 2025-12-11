@@ -39,16 +39,7 @@ conda-env/
 # DATA FILES (COMMON DS ARTIFACTS)
 # ----------------------------
 # Raw data (keep your repo clean)
-data/
-data/raw/
-data/interim/
-data/processed/
-datasets/
-*.csv
 *.tsv
-*.json
-*.xlsx
-*.xls
 *.parquet
 *.feather
 *.h5

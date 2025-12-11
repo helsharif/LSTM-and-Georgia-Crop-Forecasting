@@ -1,0 +1,28 @@
+relative_path,file_name,created,last_modified,filesize_bytes
+01 Crop Model Results Agg Spreadsheets/New Crop Model Spreadsheets.zip,New Crop Model Spreadsheets.zip,2024-05-07 00:30:24,2024-02-01 10:56:54,4946573
+e02_crop_model_lstm_irrigated_corn.ipynb,e02_crop_model_lstm_irrigated_corn.ipynb,2025-01-01 20:06:53,2025-01-01 20:06:53,488947
+e05_crop_model_lstm_rainfed_peanut.ipynb,e05_crop_model_lstm_rainfed_peanut.ipynb,2025-01-02 12:59:26,2025-01-02 12:59:26,397832
+e06_crop_model_lstm_irrigated_peanut.ipynb,e06_crop_model_lstm_irrigated_peanut.ipynb,2025-01-02 13:30:31,2025-01-02 13:30:31,539584
+e07_crop_model_lstm_rainfed_soybean.ipynb,e07_crop_model_lstm_rainfed_soybean.ipynb,2025-01-02 13:37:02,2025-01-02 13:37:02,395680
+e08_crop_model_lstm_irrigated_soybean.ipynb,e08_crop_model_lstm_irrigated_soybean.ipynb,2025-01-02 13:43:04,2025-01-02 13:43:04,500059
+models_monthly/lstm_irrigated_corn_yield_and_irrigation.model.keras,lstm_irrigated_corn_yield_and_irrigation.model.keras,2025-01-06 16:53:09,2025-01-06 16:53:09,668079
+e12_crop_model_lstm_irrigated_corn_monthly.ipynb,e12_crop_model_lstm_irrigated_corn_monthly.ipynb,2025-01-06 16:55:11,2025-01-06 16:55:11,525610
+e01_crop_model_lstm_rainfed_corn.ipynb,e01_crop_model_lstm_rainfed_corn.ipynb,2025-01-06 17:05:11,2025-01-06 17:05:11,397302
+models_monthly/lstm_rainfed_corn_yield.model.keras,lstm_rainfed_corn_yield.model.keras,2025-01-06 20:03:20,2025-01-06 20:03:20,667467
+e11_crop_model_lstm_rainfed_corn_monthly.ipynb,e11_crop_model_lstm_rainfed_corn_monthly.ipynb,2025-01-06 20:03:58,2025-01-06 20:03:58,416166
+models_monthly/lstm_rainfed_peanut_yield.model.keras,lstm_rainfed_peanut_yield.model.keras,2025-01-06 20:13:43,2025-01-06 20:13:43,667467
+e15_crop_model_lstm_rainfed_peanut_monthly.ipynb,e15_crop_model_lstm_rainfed_peanut_monthly.ipynb,2025-01-06 20:15:11,2025-01-06 20:15:11,403508
+models_monthly/lstm_rainfed_soybean_yield.model.keras,lstm_rainfed_soybean_yield.model.keras,2025-01-06 20:17:39,2025-01-06 20:17:39,667467
+e17_crop_model_lstm_rainfed_soybean_monthly.ipynb,e17_crop_model_lstm_rainfed_soybean_monthly.ipynb,2025-01-06 20:18:02,2025-01-06 20:18:02,406350
+models_monthly/lstm_irrigated_peanut_yield_and_irrigation.model.keras,lstm_irrigated_peanut_yield_and_irrigation.model.keras,2025-01-06 20:24:48,2025-01-06 20:24:48,1616319
+e16_crop_model_lstm_irrigated_peanut_monthly.ipynb,e16_crop_model_lstm_irrigated_peanut_monthly.ipynb,2025-01-06 20:25:25,2025-01-06 20:25:25,526334
+Notes.docx,Notes.docx,2025-01-06 20:26:19,2025-01-06 20:26:19,13439
+e09_monthly_agg_spreadsheet_generation.ipynb,e09_monthly_agg_spreadsheet_generation.ipynb,2025-01-07 07:21:19,2025-01-07 07:21:19,8257
+models_monthly/lstm_rainfed_cotton_yield.model.keras,lstm_rainfed_cotton_yield.model.keras,2025-01-07 07:45:26,2025-01-07 07:45:26,4443663
+e13_crop_model_lstm_rainfed_cotton_monthly.ipynb,e13_crop_model_lstm_rainfed_cotton_monthly.ipynb,2025-01-07 07:52:23,2025-01-07 07:52:23,656259
+models_monthly/lstm_irrigated_soybean_yield_and_irrigation.model.keras,lstm_irrigated_soybean_yield_and_irrigation.model.keras,2025-01-13 07:47:56,2025-01-13 07:47:56,1616319
+e18_crop_model_lstm_irrigated_soybean_monthly.ipynb,e18_crop_model_lstm_irrigated_soybean_monthly.ipynb,2025-01-13 07:49:48,2025-01-13 07:49:48,494735
+models_monthly/lstm_irrigated_cotton_yield_and_irrigation.model.keras,lstm_irrigated_cotton_yield_and_irrigation.model.keras,2025-01-13 07:53:55,2025-01-13 07:53:55,4445595
+e14_crop_model_lstm_irrigated_cotton_monthly.ipynb,e14_crop_model_lstm_irrigated_cotton_monthly.ipynb,2025-01-13 07:54:59,2025-01-13 07:54:59,645122
+e04_crop_model_lstm_irrigated_cotton.ipynb,e04_crop_model_lstm_irrigated_cotton.ipynb,2025-01-14 07:37:31,2025-01-14 07:37:31,652318
+e03_crop_model_lstm_rainfed_cotton.ipynb,e03_crop_model_lstm_rainfed_cotton.ipynb,2025-01-14 07:50:48,2025-01-14 07:50:48,501455
