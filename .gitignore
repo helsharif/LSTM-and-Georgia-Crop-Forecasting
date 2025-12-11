@@ -1,0 +1,119 @@
+# ----------------------------
+# PYTHON & VENV
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+*.egg
+build/
+dist/
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Conda environment directories
+conda-env/
+*.conda
+*.yaml.backup
+
+# ----------------------------
+# JUPYTER NOTEBOOKS
+# ----------------------------
+.ipynb_checkpoints/
+.jupyter/
+*.nbconvert.ipynb
+
+# VS Code Jupyter history
+.vscode/.ropeproject
+
+# ----------------------------
+# DATA FILES (COMMON DS ARTIFACTS)
+# ----------------------------
+# Raw data (keep your repo clean)
+data/
+data/raw/
+data/interim/
+data/processed/
+datasets/
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.db
+*.sqlite
+*.sqlite3
+*.geojson
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+
+# If you prefer, keep only data/ ignored and commit small sample data
+
+# ----------------------------
+# MACHINE LEARNING ARTIFACTS
+# ----------------------------
+models/
+checkpoints/
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.h5
+*.onnx
+
+# Experiment logs
+logs/
+wandb/
+mlruns/              # MLflow
+tensorboard/         # TensorBoard logs
+
+# ----------------------------
+# EDITORS / OS FILES
+# ----------------------------
+# VS Code
+.vscode/
+.code/
+
+# PyCharm
+.idea/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# ----------------------------
+# ENVIRONMENT VARIABLES & SECRETS
+# ----------------------------
+.env
+.env.*
+*.key
+*.secret
+*.credentials
+*.token
+
+
+# ----------------------------
+# OTHER
+# ----------------------------
+00 Archive/
+*.mat
