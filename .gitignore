@@ -68,7 +68,6 @@ datasets/
 # ----------------------------
 # MACHINE LEARNING ARTIFACTS
 # ----------------------------
-models/
 checkpoints/
 *.pkl
 *.pickle
